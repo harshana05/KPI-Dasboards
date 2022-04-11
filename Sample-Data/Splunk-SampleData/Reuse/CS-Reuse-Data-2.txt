@@ -1,0 +1,1482 @@
+[
+    {
+        "BusinessGroup": "MuleSoft Customer Success",
+        "OrgID": "be2e7a60-7ed8-4124-ab19-0de2391822eb",
+        "Date": "2022-03-11T23:39:03.273Z",
+        "Period": "CY21Q2",
+        "Connect-2018": {
+            "EnvironmentID": "e7f0e173-a0c7-4987-aff9-9ab144bd6be8",
+            "EnvironmentName": "Connect-2018",
+            "isProduction": true,
+            "CurrentTotalApis": 0,
+            "CurrentTotalContracts": 0,
+            "CurrentUniqueContracts": 0,
+            "CurrentAverageRequestsPerContract": "0",
+            "DeltaTotalApis": 0,
+            "DeltaTotalContracts": 0,
+            "DeltaUniqueContracts": 0,
+            "DeltaRequestsPerContract": "0",
+            "Apis": [],
+            "Error": {
+                "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/apimanager/api/v1/organizations/be2e7a60-7ed8-4124-ab19-0de2391822eb/environments/e7f0e173-a0c7-4987-aff9-9ab144bd6be8/apis' failed: forbidden (403).",
+                "errorCode": 403
+            }
+        },
+        "CSA-sandbox": {
+            "EnvironmentID": "b8a18fe5-05b5-4c57-bd28-f927988815f1",
+            "EnvironmentName": "CSA-sandbox",
+            "isProduction": false,
+            "CurrentTotalApis": 120,
+            "CurrentTotalContracts": 55,
+            "CurrentUniqueContracts": 36,
+            "CurrentAverageRequestsPerContract": "74",
+            "DeltaTotalApis": 0,
+            "DeltaTotalContracts": 15,
+            "DeltaUniqueContracts": 0,
+            "DeltaRequestsPerContract": "16",
+            "Apis": [
+                {
+                    "ApiId": 16357524,
+                    "Contracts": [
+                        {
+                            "ContractId": 1293018,
+                            "ContractName": "Mobile Test",
+                            "ApprovedDate": "2020-11-03T14:57:15.607Z"
+                        },
+                        {
+                            "ContractId": 1293081,
+                            "ContractName": "MarketingCloudSF",
+                            "ApprovedDate": "2020-11-03T14:58:36.941Z"
+                        }
+                    ]
+                },
+                {
+                    "ApiId": 16971672,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 15901539,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 6480402,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16886666,
+                    "Contracts": [
+                        {
+                            "ContractId": 1812898,
+                            "ContractName": "Dan H Client App",
+                            "ApprovedDate": "2021-05-19T10:46:34.627Z"
+                        }
+                    ]
+                },
+                {
+                    "ApiId": 16113978,
+                    "Contracts": [
+                        {
+                            "ContractId": 914420,
+                            "ContractName": "Training app",
+                            "ApprovedDate": "2020-04-21T13:56:43.135Z"
+                        }
+                    ]
+                },
+                {
+                    "ApiId": 16956399,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 15799890,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 15779436,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 15790036,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 15790042,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 15835614,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 15853058,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 17098748,
+                    "Contracts": [
+                        {
+                            "ContractId": 2695395,
+                            "ContractName": "Raj-Testing",
+                            "ApprovedDate": "2022-01-31T03:53:26.763Z"
+                        }
+                    ]
+                },
+                {
+                    "ApiId": 17166597,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 17050099,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 17050100,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 17071681,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 17071684,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 17071683,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 17071685,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 17050101,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 17050102,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16823788,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 17399491,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 17346822,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16297606,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16218373,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 15831365,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16382309,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16201669,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16073547,
+                    "Contracts": [
+                        {
+                            "ContractId": 1126531,
+                            "ContractName": "SFDC"
+                        },
+                        {
+                            "ContractId": 1126486,
+                            "ContractName": "SAP",
+                            "ApprovedDate": "2020-08-10T08:01:29.545Z"
+                        }
+                    ]
+                },
+                {
+                    "ApiId": 16483338,
+                    "Contracts": [
+                        {
+                            "ContractId": 1324840,
+                            "ContractName": "MobileClient",
+                            "ApprovedDate": "2020-11-18T23:46:17.822Z"
+                        }
+                    ]
+                },
+                {
+                    "ApiId": 16485786,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16480478,
+                    "Contracts": [
+                        {
+                            "ContractId": 1438680,
+                            "ContractName": "testm",
+                            "ApprovedDate": "2021-01-20T19:34:52.679Z"
+                        }
+                    ]
+                },
+                {
+                    "ApiId": 16907157,
+                    "Contracts": [
+                        {
+                            "ContractId": 1836042,
+                            "ContractName": "jcdpaccessapplication",
+                            "ApprovedDate": "2021-05-26T09:28:05.993Z"
+                        }
+                    ]
+                },
+                {
+                    "ApiId": 16571839,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16244238,
+                    "Contracts": [
+                        {
+                            "ContractId": 2793793,
+                            "ContractName": "Mobile Application",
+                            "ApprovedDate": "2022-03-08T19:56:15.221Z"
+                        }
+                    ]
+                },
+                {
+                    "ApiId": 16652247,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 17166642,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 17041461,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 17078076,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16134788,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16331791,
+                    "Contracts": [
+                        {
+                            "ContractId": 1164690,
+                            "ContractName": "pmTestApp",
+                            "ApprovedDate": "2020-08-26T10:11:15.741Z"
+                        }
+                    ]
+                },
+                {
+                    "ApiId": 16322080,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 15861295,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16283337,
+                    "Contracts": [
+                        {
+                            "ContractId": 1105115,
+                            "ContractName": "MonetizationDemo",
+                            "ApprovedDate": "2020-07-30T12:20:37.482Z"
+                        }
+                    ]
+                },
+                {
+                    "ApiId": 16381324,
+                    "Contracts": [
+                        {
+                            "ContractId": 1213022,
+                            "ContractName": "Monitoring-demo-app2",
+                            "ApprovedDate": "2020-09-23T03:06:30.961Z"
+                        },
+                        {
+                            "ContractId": 1213021,
+                            "ContractName": "Monitoring-demo-app1",
+                            "ApprovedDate": "2020-09-23T03:06:12.439Z"
+                        }
+                    ]
+                },
+                {
+                    "ApiId": 16736680,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16318624,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 15831330,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16012877,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16307586,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 17046691,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 17046695,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 17046693,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 17046694,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16118277,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 17084895,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16480751,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16118453,
+                    "Contracts": [
+                        {
+                            "ContractId": 922041,
+                            "ContractName": "Numbers Trivia App"
+                        }
+                    ]
+                },
+                {
+                    "ApiId": 17107779,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 17078075,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16993140,
+                    "Contracts": [
+                        {
+                            "ContractId": 1939576,
+                            "ContractName": "jcdpaccessapplication",
+                            "ApprovedDate": "2021-06-22T16:33:18.663Z"
+                        }
+                    ]
+                },
+                {
+                    "ApiId": 17041463,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 15888521,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 17346274,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16117316,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16408469,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16230891,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16359985,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16730734,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16138550,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16480445,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16305151,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 17671992,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 17576259,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16310137,
+                    "Contracts": [
+                        {
+                            "ContractId": 1136025,
+                            "ContractName": "Mobile Application"
+                        }
+                    ]
+                },
+                {
+                    "ApiId": 16883109,
+                    "Contracts": [
+                        {
+                            "ContractId": 1809239,
+                            "ContractName": "client-tereze",
+                            "ApprovedDate": "2021-05-18T08:32:02.328Z"
+                        }
+                    ]
+                },
+                {
+                    "ApiId": 15792431,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16721959,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 17322228,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 17322237,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 15833391,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 15885960,
+                    "Contracts": [
+                        {
+                            "ContractId": 774256,
+                            "ContractName": "SAP",
+                            "ApprovedDate": "2020-01-21T14:17:30.816Z"
+                        }
+                    ]
+                },
+                {
+                    "ApiId": 15885885,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16735180,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16704050,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 17247709,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16221742,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16901942,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 15991558,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 15885967,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16136479,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16136487,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16136497,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 15901509,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 17450324,
+                    "Contracts": []
+                },
+                {
+                    "ApiId": 16993150,
+                    "Contracts": [
+                        {
+                            "ContractId": 1943510,
+                            "ContractName": "jcdpaccessapplication",
+                            "ApprovedDate": "2021-06-23T15:26:20.900Z"
+                        }
+                    ]
+                },
+                {
+                    "ApiId": 16352308,
+                    "Contracts": [
+                        {
+                            "ContractId": 1749342,
+                            "ContractName": "SFDC",
+                            "ApprovedDate": "2021-04-29T08:05:40.822Z"
+                        },
+                        {
+                            "ContractId": 1749343,
+                            "ContractName": "SAP Two1",
+                            "ApprovedDate": "2021-04-29T08:06:01.256Z"
+                        }
+                    ]
+                }
+            ],
+            "Error": {
+                "errorMessage": "\"org.mule.weave.v2.exception.UnexpectedFunctionCallTypesException: You called the function '+' with these arguments: \n  1: Number (0 as Number {encoding: \"UTF-8\", mediaType: \"application/java; charset=UTF-8\",...)\n  2: Null (null)\n\nBut it expects one of these combinations:\n  (Array, Any)\n  (Date, Period)\n  (DateTime, Period)\n  (LocalDateTime, Period)\n  (LocalTime, Period)\n  (Number, Number)\n  (Period, DateTime)\n  (Period, LocalDateTime)\n  (Period, Time)\n  (Period, Date)\n  (Period, LocalTime)\n  (Time, Period)\n\n1| vars.offset + vars.apimOffset\n   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nTrace:\n  at anonymous::main (line: 1, column: 1)\n\" evaluating expression: \"vars.offset + vars.apimOffset\".",
+                "errorCode": 500
+            }
+        },
+        "CSM-1": {
+            "EnvironmentID": "54874fb9e4b0954968280576",
+            "EnvironmentName": "CSM-1",
+            "isProduction": false,
+            "CurrentTotalApis": 0,
+            "CurrentTotalContracts": 0,
+            "CurrentUniqueContracts": 0,
+            "CurrentAverageRequestsPerContract": "0",
+            "DeltaTotalApis": 0,
+            "DeltaTotalContracts": 0,
+            "DeltaUniqueContracts": 0,
+            "DeltaRequestsPerContract": "0",
+            "Apis": [],
+            "Error": {
+                "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/apimanager/api/v1/organizations/be2e7a60-7ed8-4124-ab19-0de2391822eb/environments/54874fb9e4b0954968280576/apis' failed: forbidden (403).",
+                "errorCode": 403
+            }
+        },
+        "CS-Training-Design": {
+            "EnvironmentID": "7211079b-64c3-4d64-acfd-4abcdddad8ee",
+            "EnvironmentName": "CS-Training-Design",
+            "isProduction": false,
+            "CurrentTotalApis": 0,
+            "CurrentTotalContracts": 0,
+            "CurrentUniqueContracts": 0,
+            "CurrentAverageRequestsPerContract": "0",
+            "DeltaTotalApis": 0,
+            "DeltaTotalContracts": 0,
+            "DeltaUniqueContracts": 0,
+            "DeltaRequestsPerContract": "0",
+            "Apis": [],
+            "Error": {
+                "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/apimanager/api/v1/organizations/be2e7a60-7ed8-4124-ab19-0de2391822eb/environments/7211079b-64c3-4d64-acfd-4abcdddad8ee/apis' failed: forbidden (403).",
+                "errorCode": 403
+            }
+        },
+        "CS-Training-Production": {
+            "EnvironmentID": "18daf869-a4f1-4822-9555-15e744993c89",
+            "EnvironmentName": "CS-Training-Production",
+            "isProduction": true,
+            "CurrentTotalApis": 0,
+            "CurrentTotalContracts": 0,
+            "CurrentUniqueContracts": 0,
+            "CurrentAverageRequestsPerContract": "0",
+            "DeltaTotalApis": 0,
+            "DeltaTotalContracts": 0,
+            "DeltaUniqueContracts": 0,
+            "DeltaRequestsPerContract": "0",
+            "Apis": [],
+            "Error": {
+                "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/apimanager/api/v1/organizations/be2e7a60-7ed8-4124-ab19-0de2391822eb/environments/18daf869-a4f1-4822-9555-15e744993c89/apis' failed: forbidden (403).",
+                "errorCode": 403
+            }
+        },
+        "CS-Training-Test": {
+            "EnvironmentID": "4d4c6292-c25f-4f9f-9bee-40e979c05f25",
+            "EnvironmentName": "CS-Training-Test",
+            "isProduction": false,
+            "CurrentTotalApis": 0,
+            "CurrentTotalContracts": 0,
+            "CurrentUniqueContracts": 0,
+            "CurrentAverageRequestsPerContract": "0",
+            "DeltaTotalApis": 0,
+            "DeltaTotalContracts": 0,
+            "DeltaUniqueContracts": 0,
+            "DeltaRequestsPerContract": "0",
+            "Apis": [],
+            "Error": {
+                "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/apimanager/api/v1/organizations/be2e7a60-7ed8-4124-ab19-0de2391822eb/environments/4d4c6292-c25f-4f9f-9bee-40e979c05f25/apis' failed: forbidden (403).",
+                "errorCode": 403
+            }
+        },
+        "DataGraphSandBox": {
+            "EnvironmentID": "e1215f9f-9dee-4047-9ee8-47e7949fd164",
+            "EnvironmentName": "DataGraphSandBox",
+            "isProduction": false,
+            "CurrentTotalApis": 0,
+            "CurrentTotalContracts": 0,
+            "CurrentUniqueContracts": 0,
+            "CurrentAverageRequestsPerContract": "0",
+            "DeltaTotalApis": 0,
+            "DeltaTotalContracts": 0,
+            "DeltaUniqueContracts": 0,
+            "DeltaRequestsPerContract": "0",
+            "Apis": [],
+            "Error": {
+                "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/apimanager/api/v1/organizations/be2e7a60-7ed8-4124-ab19-0de2391822eb/environments/e1215f9f-9dee-4047-9ee8-47e7949fd164/apis' failed: forbidden (403).",
+                "errorCode": 403
+            }
+        },
+        "DesignCrowdValidation": {
+            "EnvironmentID": "a5c67a74-2b94-4f2b-a872-25282b290a51",
+            "EnvironmentName": "DesignCrowdValidation",
+            "isProduction": false,
+            "CurrentTotalApis": 0,
+            "CurrentTotalContracts": 0,
+            "CurrentUniqueContracts": 0,
+            "CurrentAverageRequestsPerContract": "0",
+            "DeltaTotalApis": 0,
+            "DeltaTotalContracts": 0,
+            "DeltaUniqueContracts": 0,
+            "DeltaRequestsPerContract": "0",
+            "Apis": [],
+            "Error": {
+                "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/apimanager/api/v1/organizations/be2e7a60-7ed8-4124-ab19-0de2391822eb/environments/a5c67a74-2b94-4f2b-a872-25282b290a51/apis' failed: forbidden (403).",
+                "errorCode": 403
+            }
+        },
+        "Development": {
+            "EnvironmentID": "1d03795f-f21c-4ac8-a09f-ecf9a9a7ece1",
+            "EnvironmentName": "Development",
+            "isProduction": false,
+            "CurrentTotalApis": 2,
+            "CurrentTotalContracts": 0,
+            "CurrentUniqueContracts": 0,
+            "CurrentAverageRequestsPerContract": "0",
+            "DeltaTotalApis": 0,
+            "DeltaTotalContracts": 0,
+            "DeltaUniqueContracts": 0,
+            "DeltaRequestsPerContract": "0",
+            "Apis": [
+                {
+                    "ApiId": 16352308,
+                    "Error": {
+                        "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/apimanager/api/v1/organizations/be2e7a60-7ed8-4124-ab19-0de2391822eb/environments/1d03795f-f21c-4ac8-a09f-ecf9a9a7ece1/apis/16352308/contracts' failed: not found (404).",
+                        "errorCode": 404
+                    }
+                },
+                {
+                    "ApiId": 16929596,
+                    "Contracts": [],
+                    "Error": {
+                        "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/apimanager/api/v1/organizations/be2e7a60-7ed8-4124-ab19-0de2391822eb/environments/1d03795f-f21c-4ac8-a09f-ecf9a9a7ece1/apis/16352308/contracts' failed: not found (404).",
+                        "errorCode": 404
+                    }
+                }
+            ]
+        },
+        "FlowDesigner": {
+            "EnvironmentID": "642e862f-1d94-4acb-8668-daffbc4ec5d8",
+            "EnvironmentName": "FlowDesigner",
+            "isProduction": false,
+            "CurrentTotalApis": 0,
+            "CurrentTotalContracts": 0,
+            "CurrentUniqueContracts": 0,
+            "CurrentAverageRequestsPerContract": "0",
+            "DeltaTotalApis": 0,
+            "DeltaTotalContracts": 0,
+            "DeltaUniqueContracts": 0,
+            "DeltaRequestsPerContract": "0",
+            "Apis": [],
+            "Error": {
+                "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/apimanager/api/v1/organizations/be2e7a60-7ed8-4124-ab19-0de2391822eb/environments/642e862f-1d94-4acb-8668-daffbc4ec5d8/apis' failed: forbidden (403).",
+                "errorCode": 403
+            }
+        },
+        "newProd": {
+            "EnvironmentID": "10df9cd4-47f0-43c1-8436-7037a52a05c3",
+            "EnvironmentName": "newProd",
+            "isProduction": true,
+            "CurrentTotalApis": 0,
+            "CurrentTotalContracts": 0,
+            "CurrentUniqueContracts": 0,
+            "CurrentAverageRequestsPerContract": "0",
+            "DeltaTotalApis": 0,
+            "DeltaTotalContracts": 0,
+            "DeltaUniqueContracts": 0,
+            "DeltaRequestsPerContract": "0",
+            "Apis": [],
+            "Error": {
+                "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/apimanager/api/v1/organizations/be2e7a60-7ed8-4124-ab19-0de2391822eb/environments/10df9cd4-47f0-43c1-8436-7037a52a05c3/apis' failed: forbidden (403).",
+                "errorCode": 403
+            }
+        },
+        "Prod": {
+            "EnvironmentID": "7b63b190-18ac-4627-a471-635a11076306",
+            "EnvironmentName": "Prod",
+            "isProduction": true,
+            "CurrentTotalApis": 0,
+            "CurrentTotalContracts": 0,
+            "CurrentUniqueContracts": 0,
+            "CurrentAverageRequestsPerContract": "0",
+            "DeltaTotalApis": 0,
+            "DeltaTotalContracts": 0,
+            "DeltaUniqueContracts": 0,
+            "DeltaRequestsPerContract": "0",
+            "Apis": [],
+            "Error": {
+                "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/apimanager/api/v1/organizations/be2e7a60-7ed8-4124-ab19-0de2391822eb/environments/7b63b190-18ac-4627-a471-635a11076306/apis' failed: forbidden (403).",
+                "errorCode": 403
+            }
+        },
+        "Production": {
+            "EnvironmentID": "5450049be4b0035743c0b9c3",
+            "EnvironmentName": "Production",
+            "isProduction": true,
+            "CurrentTotalApis": 0,
+            "CurrentTotalContracts": 0,
+            "CurrentUniqueContracts": 0,
+            "CurrentAverageRequestsPerContract": "0",
+            "DeltaTotalApis": 0,
+            "DeltaTotalContracts": 0,
+            "DeltaUniqueContracts": 0,
+            "DeltaRequestsPerContract": "0",
+            "Apis": [],
+            "Error": {
+                "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/apimanager/api/v1/organizations/be2e7a60-7ed8-4124-ab19-0de2391822eb/environments/5450049be4b0035743c0b9c3/apis' failed: forbidden (403).",
+                "errorCode": 403
+            }
+        },
+        "Stage": {
+            "EnvironmentID": "3004223d-4493-40a1-a860-499d703fbaef",
+            "EnvironmentName": "Stage",
+            "isProduction": false,
+            "CurrentTotalApis": 0,
+            "CurrentTotalContracts": 0,
+            "CurrentUniqueContracts": 0,
+            "CurrentAverageRequestsPerContract": "0",
+            "DeltaTotalApis": 0,
+            "DeltaTotalContracts": 0,
+            "DeltaUniqueContracts": 0,
+            "DeltaRequestsPerContract": "0",
+            "Apis": [],
+            "Error": {
+                "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/apimanager/api/v1/organizations/be2e7a60-7ed8-4124-ab19-0de2391822eb/environments/3004223d-4493-40a1-a860-499d703fbaef/apis' failed: forbidden (403).",
+                "errorCode": 403
+            }
+        },
+        "Testing": {
+            "EnvironmentID": "47591204-1aa1-43fa-966c-6c720bc496da",
+            "EnvironmentName": "Testing",
+            "isProduction": false,
+            "CurrentTotalApis": 0,
+            "CurrentTotalContracts": 0,
+            "CurrentUniqueContracts": 0,
+            "CurrentAverageRequestsPerContract": "0",
+            "DeltaTotalApis": 0,
+            "DeltaTotalContracts": 0,
+            "DeltaUniqueContracts": 0,
+            "DeltaRequestsPerContract": "0",
+            "Apis": [],
+            "Error": {
+                "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/apimanager/api/v1/organizations/be2e7a60-7ed8-4124-ab19-0de2391822eb/environments/47591204-1aa1-43fa-966c-6c720bc496da/apis' failed: forbidden (403).",
+                "errorCode": 403
+            }
+        }
+    },
+    {
+        "BusinessGroup": "APIPortalTest",
+        "OrgID": "e037347e-4c45-4cd9-b598-f5834c4f58d8",
+        "Date": "2022-03-11T23:39:03.343Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/e037347e-4c45-4cd9-b598-f5834c4f58d8/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "ASM-Laboratory",
+        "OrgID": "a11c7eca-3c37-4d39-91b6-76740f6cebee",
+        "Date": "2022-03-11T23:39:03.428Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/a11c7eca-3c37-4d39-91b6-76740f6cebee/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Andy test BG",
+        "OrgID": "d5e65a8c-8f64-4116-a03e-5d075619997d",
+        "Date": "2022-03-11T23:39:03.513Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/d5e65a8c-8f64-4116-a03e-5d075619997d/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Andy sub BG 1",
+        "OrgID": "1089df9c-fdd1-4529-a1aa-2b221113ad2b",
+        "Date": "2022-03-11T23:39:03.569Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/1089df9c-fdd1-4529-a1aa-2b221113ad2b/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Angel-BG",
+        "OrgID": "59995d29-ebe2-43d9-a52b-766683fd41a7",
+        "Date": "2022-03-11T23:39:03.62Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/59995d29-ebe2-43d9-a52b-766683fd41a7/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Arch-BG",
+        "OrgID": "5493e54f-d51d-4bf6-90df-4599b42b24e9",
+        "Date": "2022-03-11T23:39:03.668Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/5493e54f-d51d-4bf6-90df-4599b42b24e9/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Ashw-BG",
+        "OrgID": "22c1c8d9-7d4d-4f9d-8a9d-46d5541402ae",
+        "Date": "2022-03-11T23:39:03.715Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/22c1c8d9-7d4d-4f9d-8a9d-46d5541402ae/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Prod-BG-1",
+        "OrgID": "402d9a4d-440a-415a-a8d8-10c7874a6f75",
+        "Date": "2022-03-11T23:39:03.783Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/402d9a4d-440a-415a-a8d8-10c7874a6f75/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Test-BG-11",
+        "OrgID": "e2b2b2df-c6b6-4c3a-b3fb-27f5ccb4d04d",
+        "Date": "2022-03-11T23:39:03.828Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/e2b2b2df-c6b6-4c3a-b3fb-27f5ccb4d04d/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "BusinessGroupEnvironmentsTesting",
+        "OrgID": "24dd9591-f16e-4889-b91c-e993ba4395db",
+        "Date": "2022-03-11T23:39:03.878Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/24dd9591-f16e-4889-b91c-e993ba4395db/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "CS EMEA Alexa",
+        "OrgID": "e74ebdae-932f-401a-963d-ffa359b8108a",
+        "Date": "2022-03-11T23:39:03.933Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/e74ebdae-932f-401a-963d-ffa359b8108a/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "CSAs",
+        "OrgID": "3ed49df9-8e70-42be-b1cf-9359d0fc1614",
+        "Date": "2022-03-11T23:39:03.999Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/3ed49df9-8e70-42be-b1cf-9359d0fc1614/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "CSE-Test",
+        "OrgID": "68232241-68a9-4889-9b34-d6779687a99c",
+        "Date": "2022-03-11T23:39:04.091Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/68232241-68a9-4889-9b34-d6779687a99c/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "CSSA API Community Manager",
+        "OrgID": "7efb835c-2f78-4e09-845a-ee571b711ed9",
+        "Date": "2022-03-11T23:39:04.174Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/7efb835c-2f78-4e09-845a-ee571b711ed9/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "CS_Monitoring",
+        "OrgID": "aa7a9ca6-a817-43c2-a739-3c8b1c6a0a35",
+        "Date": "2022-03-11T23:39:04.231Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/aa7a9ca6-a817-43c2-a739-3c8b1c6a0a35/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "CustomerSuccessValueDashboard",
+        "OrgID": "27e5e2b9-5ed9-4048-adc6-c4a06a9125d5",
+        "Date": "2022-03-11T23:39:04.288Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/27e5e2b9-5ed9-4048-adc6-c4a06a9125d5/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Gonzalo Business Group",
+        "OrgID": "3ffd2c9b-6f90-4393-8e5f-431cf2f18b2f",
+        "Date": "2022-03-11T23:39:04.338Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/3ffd2c9b-6f90-4393-8e5f-431cf2f18b2f/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "BG 1",
+        "OrgID": "f92a839d-75dd-4bca-9139-84534fb4e70f",
+        "Date": "2022-03-11T23:39:04.406Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/f92a839d-75dd-4bca-9139-84534fb4e70f/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "BG 2",
+        "OrgID": "14beb3f5-a2a4-4152-98e7-6617d5a376a4",
+        "Date": "2022-03-11T23:39:04.463Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/14beb3f5-a2a4-4152-98e7-6617d5a376a4/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Greg Test BG",
+        "OrgID": "a5791504-b406-4cd5-93da-43326910958c",
+        "Date": "2022-03-11T23:39:04.518Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/a5791504-b406-4cd5-93da-43326910958c/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Hackathon-MASTER",
+        "OrgID": "3fdc399a-22e4-47f2-b304-2884e4deea12",
+        "Date": "2022-03-11T23:39:04.565Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/3fdc399a-22e4-47f2-b304-2884e4deea12/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Hackathon-PARTICIPANTS",
+        "OrgID": "329b025e-1bce-46e1-8937-507de51251e3",
+        "Date": "2022-03-11T23:39:04.625Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/329b025e-1bce-46e1-8937-507de51251e3/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Hemanth's BG",
+        "OrgID": "f2591fbd-01ff-4f6f-a853-75c0bdaaef75",
+        "Date": "2022-03-11T23:39:04.679Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/f2591fbd-01ff-4f6f-a853-75c0bdaaef75/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Himaja BG",
+        "OrgID": "797c78fe-e695-42f5-9b69-96fb5dca19fd",
+        "Date": "2022-03-11T23:39:04.731Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/797c78fe-e695-42f5-9b69-96fb5dca19fd/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "BG-1",
+        "OrgID": "d76c6ce8-8f0b-4686-8d75-0c31dad2d99b",
+        "Date": "2022-03-11T23:39:04.786Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/d76c6ce8-8f0b-4686-8d75-0c31dad2d99b/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "IPS",
+        "OrgID": "9f6bfa8b-2b1c-4f34-b59c-d8adb997c3e9",
+        "Date": "2022-03-11T23:39:04.845Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/9f6bfa8b-2b1c-4f34-b59c-d8adb997c3e9/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "BG-IPS",
+        "OrgID": "297f648d-93b9-47ca-9f52-4c83f9e1d6c6",
+        "Date": "2022-03-11T23:39:05.154Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/297f648d-93b9-47ca-9f52-4c83f9e1d6c6/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Test-BG-IPS",
+        "OrgID": "8edf9df2-0794-4d6e-bf84-bee8c6788289",
+        "Date": "2022-03-11T23:39:05.245Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/8edf9df2-0794-4d6e-bf84-bee8c6788289/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "services",
+        "OrgID": "fc00171e-a26c-40e5-8c17-ec0f62cf031b",
+        "Date": "2022-03-11T23:39:05.335Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/fc00171e-a26c-40e5-8c17-ec0f62cf031b/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Jaideep Org's",
+        "OrgID": "0004a061-f92e-4edc-a97f-54a079d531da",
+        "Date": "2022-03-11T23:39:05.388Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/0004a061-f92e-4edc-a97f-54a079d531da/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "JS SubOrg",
+        "OrgID": "f93ff764-6e32-4002-bf92-c2d8e44af5f6",
+        "Date": "2022-03-11T23:39:05.449Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/f93ff764-6e32-4002-bf92-c2d8e44af5f6/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Krishna's BG",
+        "OrgID": "71beb708-264b-401c-83ad-25e6faf518cc",
+        "Date": "2022-03-11T23:39:05.53Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/71beb708-264b-401c-83ad-25e6faf518cc/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "BG One",
+        "OrgID": "199aeca4-f23b-4f57-b46f-05d88fdb1030",
+        "Date": "2022-03-11T23:39:05.594Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/199aeca4-f23b-4f57-b46f-05d88fdb1030/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "BG Two",
+        "OrgID": "2d2be6c9-452d-4116-9a74-29623c448bc6",
+        "Date": "2022-03-11T23:39:05.679Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/2d2be6c9-452d-4116-9a74-29623c448bc6/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Marcia-BG",
+        "OrgID": "425a4e9b-4ea3-4da5-ad85-1e23d2d3e6f1",
+        "Date": "2022-03-11T23:39:05.755Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/425a4e9b-4ea3-4da5-ad85-1e23d2d3e6f1/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Mark BG",
+        "OrgID": "5a465c73-6a8c-425f-b391-0f06abbb470f",
+        "Date": "2022-03-11T23:39:05.809Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/5a465c73-6a8c-425f-b391-0f06abbb470f/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Monish BG",
+        "OrgID": "b729b50b-75e6-47ed-b8d9-c42826990c3d",
+        "Date": "2022-03-11T23:39:05.861Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/b729b50b-75e6-47ed-b8d9-c42826990c3d/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "PSARNGAL-CSSA",
+        "OrgID": "e9758612-a7f2-450f-836a-6af665d15361",
+        "Date": "2022-03-11T23:39:05.927Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/e9758612-a7f2-450f-836a-6af665d15361/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Paul Kersey",
+        "OrgID": "a34af947-48a8-4438-8b4b-275e8ddb9ec4",
+        "Date": "2022-03-11T23:39:05.98Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/a34af947-48a8-4438-8b4b-275e8ddb9ec4/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Rajat-BG",
+        "OrgID": "47d7daad-0ac7-4921-9234-97fe7a8c4566",
+        "Date": "2022-03-11T23:39:06.035Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/47d7daad-0ac7-4921-9234-97fe7a8c4566/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Sub-BG-1",
+        "OrgID": "4a13ec1d-612e-4fd2-881e-3d7ea5b24679",
+        "Date": "2022-03-11T23:39:06.086Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/4a13ec1d-612e-4fd2-881e-3d7ea5b24679/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Sub-BG-2",
+        "OrgID": "18b624ee-f742-4f54-9109-7d2b28803205",
+        "Date": "2022-03-11T23:39:06.146Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/18b624ee-f742-4f54-9109-7d2b28803205/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Rajhans_BG",
+        "OrgID": "8cbbff13-c1a8-4bbd-8fd9-76f30be47445",
+        "Date": "2022-03-11T23:39:06.205Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/8cbbff13-c1a8-4bbd-8fd9-76f30be47445/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Ram BG",
+        "OrgID": "4eb5d1b3-d465-4ebd-b170-cb8206c1cdbd",
+        "Date": "2022-03-11T23:39:06.256Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/4eb5d1b3-d465-4ebd-b170-cb8206c1cdbd/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Ramesh BG",
+        "OrgID": "4a79a993-49b2-4f18-bb6d-f26d95d76695",
+        "Date": "2022-03-11T23:39:06.315Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/4a79a993-49b2-4f18-bb6d-f26d95d76695/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "RaviBG",
+        "OrgID": "65f30eb4-0c85-4747-aa7c-b3aba5b106c3",
+        "Date": "2022-03-11T23:39:06.368Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/65f30eb4-0c85-4747-aa7c-b3aba5b106c3/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Rogers BG2",
+        "OrgID": "519b03d2-2a53-4edd-9281-92afd0f0a8b4",
+        "Date": "2022-03-11T23:39:06.42Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/519b03d2-2a53-4edd-9281-92afd0f0a8b4/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Royston's BG",
+        "OrgID": "daad34fd-203d-4483-b40c-66e305043a6a",
+        "Date": "2022-03-11T23:39:06.487Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/daad34fd-203d-4483-b40c-66e305043a6a/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Sandeep-BG",
+        "OrgID": "6d1cac5b-edcf-435a-ba62-c2bdb554ea64",
+        "Date": "2022-03-11T23:39:06.558Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/6d1cac5b-edcf-435a-ba62-c2bdb554ea64/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "SatishBG",
+        "OrgID": "3e9ca4f7-2b27-46a8-b29f-f0fafa5981d8",
+        "Date": "2022-03-11T23:39:06.619Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/3e9ca4f7-2b27-46a8-b29f-f0fafa5981d8/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "MuleSoft",
+        "OrgID": "a99e0373-7651-454e-b228-73438fbf2228",
+        "Date": "2022-03-11T23:39:06.68Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/a99e0373-7651-454e-b228-73438fbf2228/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Service Mesh Demo",
+        "OrgID": "ac5b18e2-e479-4b03-bf14-74255a074308",
+        "Date": "2022-03-11T23:39:06.731Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/ac5b18e2-e479-4b03-bf14-74255a074308/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Sid's BG",
+        "OrgID": "8aa605b4-c13e-40bb-be89-40404b6239a0",
+        "Date": "2022-03-11T23:39:06.775Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/8aa605b4-c13e-40bb-be89-40404b6239a0/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Snehal's BG",
+        "OrgID": "a01dbb5f-d15e-4b66-9bd6-156a62fa3feb",
+        "Date": "2022-03-11T23:39:06.827Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/a01dbb5f-d15e-4b66-9bd6-156a62fa3feb/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "SS-Sub-BG1",
+        "OrgID": "40e53990-70b3-4c02-a983-3cf7425e799f",
+        "Date": "2022-03-11T23:39:06.877Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/40e53990-70b3-4c02-a983-3cf7425e799f/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Sub1",
+        "OrgID": "020d47de-983b-4b3a-99c3-2404965c8d71",
+        "Date": "2022-03-11T23:39:06.925Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/020d47de-983b-4b3a-99c3-2404965c8d71/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Sudhir's Org",
+        "OrgID": "8c7e5069-c0c0-469d-8302-542f8aa1add8",
+        "Date": "2022-03-11T23:39:06.971Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/8c7e5069-c0c0-469d-8302-542f8aa1add8/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "UlfBG",
+        "OrgID": "a0a28260-95ec-4fed-b8b5-6bd241203b2b",
+        "Date": "2022-03-11T23:39:07.016Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/a0a28260-95ec-4fed-b8b5-6bd241203b2b/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "UlfTestBG",
+        "OrgID": "296aecbb-7f0a-4f98-99b9-92ce82f635f9",
+        "Date": "2022-03-11T23:39:07.071Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/296aecbb-7f0a-4f98-99b9-92ce82f635f9/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "UlfSubBGTest",
+        "OrgID": "ec100650-b503-4ae6-ad75-5c9515ce34ef",
+        "Date": "2022-03-11T23:39:07.131Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/ec100650-b503-4ae6-ad75-5c9515ce34ef/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "Venkat BG",
+        "OrgID": "21cb5a55-f453-4fc8-b804-aa5115ba3524",
+        "Date": "2022-03-11T23:39:07.181Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/21cb5a55-f453-4fc8-b804-aa5115ba3524/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "VirtualBank",
+        "OrgID": "f1364390-86f7-4fc0-8e38-05bba340b74e",
+        "Date": "2022-03-11T23:39:07.232Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/f1364390-86f7-4fc0-8e38-05bba340b74e/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "CTO",
+        "OrgID": "f8158e98-744a-4b2e-840a-33c27f4c3797",
+        "Date": "2022-03-11T23:39:07.284Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/f8158e98-744a-4b2e-840a-33c27f4c3797/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "kavyaMJ-BG",
+        "OrgID": "e935ab8f-c99b-4a07-947f-1609ddbb2dae",
+        "Date": "2022-03-11T23:39:07.336Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/e935ab8f-c99b-4a07-947f-1609ddbb2dae/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "stevejRTF",
+        "OrgID": "e4c15ca6-e165-44f9-84a6-ad41e9501ccb",
+        "Date": "2022-03-11T23:39:07.39Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/e4c15ca6-e165-44f9-84a6-ad41e9501ccb/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    },
+    {
+        "BusinessGroup": "testBG",
+        "OrgID": "e5c2d5a6-13dc-4602-9fa0-3b99b755df22",
+        "Date": "2022-03-11T23:39:07.44Z",
+        "Period": "CYQ1",
+        "Error": {
+            "errorMessage": "HTTP GET on resource 'https://anypoint.mulesoft.com:443/accounts/api/organizations/e5c2d5a6-13dc-4602-9fa0-3b99b755df22/environments' failed: unauthorized (401).",
+            "errorCode": 401
+        }
+    }
+]

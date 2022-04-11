@@ -1,0 +1,37 @@
+[
+    {
+        "date": "2022-01-15T15:46:51.15-06:00",
+        "businessGroup": "Salesforce",
+        "businessGroupId": "63140ad9-fae8-47b5-a972-6c13b2d2fae7",
+        "Period": "2022-01-01",
+        "defectMetrics": {
+            "newdefects": 20,
+            "defectclosed": 10,
+            "avgdefectage": 7.7,
+            "avgSprintage_weeks": 3,
+            "MTTR": 13,
+            "backlogDefects": 10,
+            "DER": 25,
+            "codeCoverage": 85
+        },
+        "errors": []
+    },
+    {
+        "date": "2022-01-15T15:46:51.15-06:00",
+        "businessGroup": "Services",
+        "businessGroupId": "ae1d6c5d-0886-4366-b4df-5f262d1505a2",
+        "Period": "2022-02-01",
+        "defectMetrics": {
+            "newdefects": 18,
+            "defectclosed": 7,
+            "avgdefectage": 6,
+            "avgSprintage_weeks": 2,
+            "MTTR": 10,
+            "backlogDefects": 11,
+            "DER": 28,
+            "codeCoverage": 80
+        },
+        "errors": []
+           
+    }
+]

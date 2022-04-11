@@ -1,0 +1,2 @@
+date,businessGroup,businessGroupId,Period,newdefects,defectclosed,avgdefectage,avgSprintage_weeks,MTTR,backlogDefects,DER,codeCoverage
+2022-01-15T15:46:51.15-06:00,Salesforce,63140ad9-fae8-47b5-a972-6c13b2d2fae7,2022-01-01,20,10,7.7,3,13,10,25,85

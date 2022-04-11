@@ -1,0 +1,2 @@
+BusinessGroup,OrgID,Date,Period,EnvironmentID,EnvironmentName,isProduction,CurrentTotalApis,CurrentTotalContracts,CurrentUniqueContracts,CurrentAverageRequestsPerContract,DeltaTotalApis,DeltaTotalContracts,DeltaUniqueContracts,DeltaRequestsPerContract
+MuleSoft Customer Success,be2e7a60-7ed8-4124-ab19-0de2391822eb,2021-09-28T21:21:47.648-05:00,CYQ1,b8a18fe5-05b5-4c57-bd28-f927988815f1,CSA-sandbox,false,120,40,36,58,0,0,0,0
