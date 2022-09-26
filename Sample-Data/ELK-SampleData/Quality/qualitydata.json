@@ -1,0 +1,12 @@
+{"index":{}}
+{  "date": "2022-01-15T15:46:51.15-06:00",  "businessGroup": "Salesforce",  "businessGroupId": "63140ad9-fae8-47b5-a972-6c13b2d2fae7",  "Period": "2022-01-01",    "newdefects": 20,  "defectclosed": 10,  "avgdefectage": 7.7,  "avgSprintage_weeks": 3, "MTTR": 13,  "backlogDefects": 10,  "DER": 25,  "codeCoverage": 85, "@timestamp" : "2022-01-15T21:46:51.150Z"}
+{"index":{}}
+{    "date": "2022-01-15T15:46:51.15-06:00",    "businessGroup": "Services",    "businessGroupId": "ae1d6c5d-0886-4366-b4df-5f262d1505a2",    "Period": "2022-01-01",            "newdefects": 18,        "defectclosed": 7,        "avgdefectage": 6,        "avgSprintage_weeks": 2,        "MTTR": 10,        "backlogDefects": 11,        "DER": 28,        "codeCoverage": 80,"@timestamp" : "2022-01-15T21:46:51.150Z"           }
+{"index":{}}
+{    "date": "2022-02-15T15:46:51.15-06:00",    "businessGroup": "Salesforce",    "businessGroupId": "63140ad9-fae8-47b5-a972-6c13b2d2fae7",    "Period": "2022-02-01",            "newdefects": 15,        "defectclosed": 18,        "avgdefectage": 5,        "avgSprintage_weeks": 3,        "MTTR": 10,        "backlogDefects": 7,        "DER": 16,        "codeCoverage": 86, "@timestamp" : "2022-02-15T21:46:51.150Z"   }
+{"index":{}}
+{    "date": "2022-02-15T15:46:51.15-06:00",    "businessGroup": "Services",    "businessGroupId": "ae1d6c5d-0886-4366-b4df-5f262d1505a2",    "Period": "2022-02-01",            "newdefects": 20,        "defectclosed": 7,        "avgdefectage": 9,        "avgSprintage_weeks": 2,        "MTTR": 15,        "backlogDefects": 21,        "DER": 40,        "codeCoverage": 75, "@timestamp" : "2022-02-15T21:46:51.150Z"          }
+{"index":{}}
+{    "date": "2022-03-15T15:46:51.15-06:00",    "businessGroup": "Salesforce",    "businessGroupId": "63140ad9-fae8-47b5-a972-6c13b2d2fae7",    "Period": "2022-03-01",            "newdefects": 5,        "defectclosed": 10,        "avgdefectage": 5,        "avgSprintage_weeks": 3,        "MTTR": 7,        "backlogDefects": 2,        "DER": 10,        "codeCoverage": 89, "@timestamp" : "2022-03-15T21:46:51.150Z"   }
+{"index":{}}
+{    "date": "2022-03-15T15:46:51.15-06:00",    "businessGroup": "Services",    "businessGroupId": "ae1d6c5d-0886-4366-b4df-5f262d1505a2",    "Period": "2022-03-01",            "newdefects": 29,        "defectclosed": 5,        "avgdefectage": 15,        "avgSprintage_weeks": 2,        "MTTR": 19,  "backlogDefects": 45,  "DER": 45,  "codeCoverage": 72, "@timestamp" : "2022-03-15T21:46:51.150Z" }

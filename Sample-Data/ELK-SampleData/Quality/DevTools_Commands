@@ -1,0 +1,12 @@
+POST /metrics_quality/_doc
+{    "date": "2022-03-15T15:46:51.15-06:00",    "businessGroup": "Services",    "businessGroupId": "ae1d6c5d-0886-4366-b4df-5f262d1505a2",    "Period": "2022-03-02",            "newdefects": 29,        "defectclosed": 5,        "avgdefectage": 15,        "avgSprintage_weeks": 2,        "MTTR": 19,  "backlogDefects": 45,  "DER": 45,  "codeCoverage": 72 }
+
+
+GET /metrics_quality/_search
+{
+    "query": {
+        "match_all": {}
+    }
+}
+
+DELETE /metrics_quality/_doc/X-TKGoIBMSQgCVpdGmh4
