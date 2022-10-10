@@ -1,0 +1,16 @@
+{
+        "date": "2022-01-15T15:46:51.15-06:00",
+        "businessGroup": "Salesforce",
+        "businessGroupId": "63140ad9-fae8-47b5-a972-6c13b2d2fae7",
+        "period": "CY22Q1",
+        "speedMetrics": {
+            "devDeploymentes": 10,
+            "qaDeploymentes": 4,
+            "prodDeploymentes": 3,
+            "avgLeadTimeInDays": 24 ,
+            "DER": 25,
+            "codeCoverage": 85,
+            "velocityInPoints": 35,
+        },
+        "errors": []
+    }
